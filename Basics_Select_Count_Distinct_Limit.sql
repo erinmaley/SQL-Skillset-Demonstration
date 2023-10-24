@@ -1,4 +1,4 @@
-/*In this script, I will be demonsating the foundational SQL skills including SELECT, COUNT, DISTINCT, AND LIMIT.
+/*In this script, I will be demonstrating the foundational SQL skills including SELECT, COUNT, DISTINCT, AND LIMIT.
 
 Software used: DbVisualizer
 Database Used in this Lab: The databse losely comes from the following source, where some data was altered for the use of the skillset demonstration: https://publichealth.uic.edu/uic-covid-19-public-health-response/covid-19-maps-chicago-illinois/number-of-hospital-beds-in-chicago/*/
